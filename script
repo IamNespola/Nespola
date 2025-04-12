@@ -96,7 +96,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://96361693900685",
+    Image = "rbxassetid://120145030560927",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
@@ -4687,7 +4687,7 @@ if Sea3 then
         end
         for v728, v729 in pairs(game:GetService("Workspace").Map.MysticIsland:GetDescendants()) do
             if v729:IsA("MeshPart") then
-                if (v729.MeshId == "rbxassetid://96361693900685") then
+                if (v729.MeshId == "rbxassetid://120145030560927") then
                     return v729;
                 end
             end
