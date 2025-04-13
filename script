@@ -1,6 +1,4 @@
 
-
-
 shared.LoaderTitle = "Đăng Ký Kênh _ItzmeNespola_";
 shared.LoaderKeyFrames = {
     [1] = {
