@@ -312,7 +312,7 @@ v5:Destroy();
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
     Title = "NESPOLA Roblox Hub",
-    SubTitle = "Blox Fruit",
+    SubTitle = "discord.gg/invite/Ecy9D6pbS9",
     TabWidth = 160,
     Theme = "Dark",
     Acrylic = false,
@@ -321,7 +321,7 @@ local v15 = v14:CreateWindow({
 });
 local v16 = {
     Home = v15:AddTab({
-        Title = "Thông Tin"
+        Title = "Discord"
     }),
     Main = v15:AddTab({
         Title = "Cày"
